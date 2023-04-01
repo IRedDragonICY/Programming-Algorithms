@@ -1,0 +1,11 @@
+Tugas Individu Alpro 1.1
+
+Buatlah program untuk menghitung:
+1. luas lingkaran
+2. keliling lingkaran
+3. volume bola. 
+Buat deklarasi terpisah antara variabel dan konstanta yang diperlukan.
+
+Ketentuan:
+- Bangkitkan nilai jari2 bertipe integer diambil secara acak antara 10-40 sebagai inputannya
+- Nama file dibuat sama dengan nomor tugas dengan mengubah titik menjadi underscore Contoh: tugas1_1.cpp

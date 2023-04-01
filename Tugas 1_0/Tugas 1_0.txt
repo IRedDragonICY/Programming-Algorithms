@@ -1,0 +1,27 @@
+Tugas Individu Alpro 1.0 (updated)
+
+Buatlah program yang meminta input dari user berupa data berikut:
+- Nama lengkap
+- alamat rumah 
+- email
+- nomor hp
+- tanggal lahir
+- bulan lahir (bentuk angka)
+- tahun lahir 
+Kemudian cetaklah seluruh data tersebut ke layar.
+
+Contoh output:
+Nama: Ardiansyah Singarimbun
+Alamat: Jl Kapas No. 9 Semaki Yogyakarta
+Email: arrimbun@chatgpt.com
+No. HP: 0873902222arrimbun@chatgpt.com
+Tgl. Lahir: 25/9/1990
+Usia: 33 tahun
+(Tahun saat ini tidak boleh berupa nilai konstanta, namun harua diambil dari sistem. Silakan googling)
+
+Ketentuan:
+- kerjakan dan pikirkan pakai otakmu sendiri
+- kode program yang persis sama disebabkan copy-paste dari teman atau internet akan diviralkan dan dipermalukan di lambe turbah. Otomatis wajib remedial
+- penilaian mencakup penamaan variabel, fungsi dll yang bermakna, jelas, mudah dibaca dan dimengerti serta tidak ambigu
+- program dikumpulkan dalam satu folder, lalu kirim tautan shared folder via japri WA saya dengan format pesan: NIM Nama Alpro Kelas Tautan
+- Nama file: tugas1_0.cpp

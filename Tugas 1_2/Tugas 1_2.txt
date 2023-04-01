@@ -1,0 +1,14 @@
+Tugas Individu Alpro 1.2
+
+Survei minimal 5 menu Gofood. Masukkan nama dan harga tiap menu ke dalam array. Bangkitkan bilangan integer secara acak antara 0 hingga ukuran array.
+Tampilkan nama menu sesuai dengan indeks yang telah dibangkitkan secara acak tersebut.
+
+Contoh data array:
+["Pempek Palembang Rp. 30000", "Garang Asem Rp. 23.000",...., dst]
+
+Contoh output
+Nomor menu: 2
+Menu: Garang Asem Rp. 23.000
+
+Ketentuan
+Penamaan file: tugas1_2.cpp

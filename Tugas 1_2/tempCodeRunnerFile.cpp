@@ -1,0 +1,1 @@
+char esc_char = 27; // the decimal code for escape character is 27
